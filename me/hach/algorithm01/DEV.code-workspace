@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"type_traits": "cpp",
+			"any": "cpp",
+			"concepts": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"expected": "cpp",
+			"optional": "cpp",
+			"flat_map": "cpp",
+			"flat_set": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"generator": "cpp",
+			"istream": "cpp",
+			"ranges": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"stacktrace": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"string_view": "cpp",
+			"functional": "cpp",
+			"regex": "cpp",
+			"tuple": "cpp",
+			"valarray": "cpp",
+			"variant": "cpp",
+			"string": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"memory": "cpp",
+			"spanstream": "cpp",
+			"syncstream": "cpp",
+			"thread": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
